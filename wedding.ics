@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dhruvisha and Jaivik Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dhruvisha-jaivik-0@wedding
+DTSTAMP:20261127T000000Z
+DTSTART:20270130T033000Z
+DTEND:20270130T040000Z
+SUMMARY:Ganesh Sthapana - Dhruvisha & Jaivik Wedding
+LOCATION:130\, Shri Rangkutir Bungalows\, behind Vrundavan Park\, Zadeshwar Road\, Bharuch
+END:VEVENT
+BEGIN:VEVENT
+UID:dhruvisha-jaivik-1@wedding
+DTSTAMP:20261127T000000Z
+DTSTART:20270130T040000Z
+DTEND:20270130T043000Z
+SUMMARY:Mandap Muhurat - Dhruvisha & Jaivik Wedding
+LOCATION:130\, Shri Rangkutir Bungalows\, behind Vrundavan Park\, Zadeshwar Road\, Bharuch
+END:VEVENT
+BEGIN:VEVENT
+UID:dhruvisha-jaivik-2@wedding
+DTSTAMP:20261127T000000Z
+DTSTART:20270130T100000Z
+DTEND:20270130T120000Z
+SUMMARY:Pithi (Haldi Carnival) - Dress code: Purple - Dhruvisha & Jaivik Wedding
+LOCATION:130\, Shri Rangkutir Bungalows\, behind Vrundavan Park\, Zadeshwar Road\, Bharuch
+END:VEVENT
+BEGIN:VEVENT
+UID:dhruvisha-jaivik-3@wedding
+DTSTAMP:20261127T000000Z
+DTSTART:20270130T150000Z
+DTEND:20270130T173000Z
+SUMMARY:Sangeet Sandhya Garba - Dhruvisha & Jaivik Wedding
+LOCATION:130\, Shri Rangkutir Bungalows\, behind Vrundavan Park\, Zadeshwar Road\, Bharuch
+END:VEVENT
+BEGIN:VEVENT
+UID:dhruvisha-jaivik-4@wedding
+DTSTAMP:20261127T000000Z
+DTSTART:20270131T033000Z
+DTEND:20270131T043000Z
+SUMMARY:Grahshanti - Dhruvisha & Jaivik Wedding
+LOCATION:Radhe Party Plot\, beside Swaminarayan Mandir\, Bharuch
+END:VEVENT
+BEGIN:VEVENT
+UID:dhruvisha-jaivik-5@wedding
+DTSTAMP:20261127T000000Z
+DTSTART:20270131T053000Z
+DTEND:20270131T070000Z
+SUMMARY:Mosalu - Dhruvisha & Jaivik Wedding
+LOCATION:Radhe Party Plot\, beside Swaminarayan Mandir\, Bharuch
+END:VEVENT
+BEGIN:VEVENT
+UID:dhruvisha-jaivik-6@wedding
+DTSTAMP:20261127T000000Z
+DTSTART:20270131T133000Z
+DTEND:20270131T150000Z
+SUMMARY:Swaruchi Bhojan - Dhruvisha & Jaivik Wedding
+LOCATION:Radhe Party Plot\, beside Swaminarayan Mandir\, Bharuch
+END:VEVENT
+BEGIN:VEVENT
+UID:dhruvisha-jaivik-7@wedding
+DTSTAMP:20261127T000000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:Hast Melap - Dhruvisha & Jaivik Wedding
+LOCATION:Radhe Party Plot\, beside Swaminarayan Mandir\, Bharuch
+END:VEVENT
+END:VCALENDAR
